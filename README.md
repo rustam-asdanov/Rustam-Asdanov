@@ -72,10 +72,6 @@
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt="csharp" width="60" height="60"/> </a>
 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
-
-<a href="https://jquery.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" alt="jquery" width="60" height="60"/> </a>
-
-</a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a><a href="https://jquery.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" alt="jquery" width="60" height="60"/> </a>
 
 </p>
